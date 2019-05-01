@@ -15,7 +15,7 @@ int soilbaseY=160;
 int lifeX=10;
 int ratX=320;
 int ratY=80;
-int ratSpeed=80/15;
+int ratSpeed=80/16;
 boolean idle=true;
 // For debug function; DO NOT edit or remove this!
 int playerHealth = 2;
